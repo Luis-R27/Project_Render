@@ -8,3 +8,4 @@ Usamos la librería streamlit para crear la aplicación
 4. Creamos un histograma relacionando la columna 'odometro'
 5. Creamos un grafico de dispersión relacionando datosde la columna 'odometro' y 'year'
 6. Creamos un Seleccionador para que el/la usuario/a escoja el que crea conveniente. (En el grafico de dispersión esta vez usamos datos de las columnas 'odometro' y 'price, para usar diferentes graficos)
+7. Puedes ver la pagina web en el siguinete enlace: https://project-render-5n2l.onrender.com
